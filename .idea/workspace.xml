@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629b56e3-9c46-41af-998a-d03adea0d7f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/dto/OrderCreatedEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/dto/OrderRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/dto/PaymentResultEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/entity/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/entity/OrderStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/kafka/consumer/PaymentConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/kafka/producer/OrderProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/repository/OrderRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/service/OrderService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="629b56e3-9c46-41af-998a-d03adea0d7f2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
