@@ -38,8 +38,7 @@ docker-compose up -d
 Isso inicia:
 
 Kafka
-Kafka UI (http://localhost:8080
-)
+Kafka UI (http://localhost:8080)
 PostgreSQL (Order DB e Payment DB)
 2. Rodar os microserviços
 

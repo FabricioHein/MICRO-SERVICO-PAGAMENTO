@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629b56e3-9c46-41af-998a-d03adea0d7f2" name="Changes" comment="" />
+    <list default="true" id="629b56e3-9c46-41af-998a-d03adea0d7f2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/kafka/consumer/PaymentConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/kafka/consumer/PaymentConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-order/ms-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-order/ms-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-payment/ms-payment/src/main/java/com/payment/kafka/consumer/PaymentConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-payment/ms-payment/src/main/java/com/payment/kafka/consumer/PaymentConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/redme.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,11 +107,19 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/service/OrderService.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/ms-order/ms-order/src/main/java/com/order/kafka/consumer/PaymentConsumer.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MICRO_SERVICO_PAGAMENTO$MsOrderApplication.ic" NAME="MsOrderApplication Coverage Results" MODIFIED="1778089437122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.order.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/MICRO_SERVICO_PAGAMENTO$MsPaymentApplication.ic" NAME="MsPaymentApplication Coverage Results" MODIFIED="1778089420264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.payment.*</FILTER>
+    </SUITE>
   </component>
 </project>
